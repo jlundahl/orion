@@ -156,7 +156,7 @@ By building ORION, you'll understand:
 
 ## License
 
-Educational project. See full guide for details.
+MIT. Educational project. See full guide for details.
 
 ---
 
