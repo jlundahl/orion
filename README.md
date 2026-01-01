@@ -169,4 +169,4 @@ MIT. Educational project. See full guide for details.
 
 ---
 
-*Built with Claude (Anthropic Edition, December 2025)*
+*Nampara AI, December 2025)*
