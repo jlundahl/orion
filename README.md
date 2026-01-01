@@ -144,6 +144,15 @@ export PYTHONPATH=$(pwd)
 python -m pytest tests/ -v
 ```
 
+## Troubleshooting
+
+| Issue | Solution |
+|-------|----------|
+| "Cannot connect to presentation server" | Ensure Node server started; check port 3000 |
+| "ANTHROPIC_API_KEY not set" | Export your API key before running |
+| "LibreOffice conversion timed out" | Restart the container |
+| "ModuleNotFoundError" | Check PYTHONPATH is set correctly |
+
 ## What You'll Learn
 
 By building ORION, you'll understand:
